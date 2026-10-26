@@ -1,0 +1,15 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Build directories
+cmake-build-*/
+build/
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll

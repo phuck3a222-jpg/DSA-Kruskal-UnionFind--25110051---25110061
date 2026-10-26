@@ -1,0 +1,9 @@
+small_graph.txt
+Selected edges: 0-1 (1), 1-2 (2), 2-3 (4).
+Total weight: 7. Components: 1.
+Hand trace: choose weights 1 and 2; skip weight 3 because it creates a cycle;
+choose weight 4 to connect vertex 3. Total = 1 + 2 + 4 = 7.
+
+disconnected_graph.txt
+No spanning tree. Minimum spanning forest: 0-1 (2).
+Total weight: 2. Components: 2.
